@@ -7,5 +7,3 @@ I started in 2017 with Kotlin, making simple mobile applications and expanding m
 My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier.
 
 Over the last few years, my knowledge and experience with development have expanded. I am fluent in using Go / JavaScript for server-side development and Flutter for client-side development as well as all native languages used by Flutter framework for compilation.
-
-Most recently I've been trying to get better at bash scripting, so I'm trying to find simple projects written in other languages that I can port to bash. My asciibots-bash project is one example of this, and in the future I hope to find more projects like it that I can port to bash.
