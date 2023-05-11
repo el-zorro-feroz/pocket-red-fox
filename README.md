@@ -5,19 +5,24 @@
 <p align="justify"> My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. </p>
 <p align="justify"> Over the last few years, my knowledge and experience with development have expanded. I am fluent in using Go / JavaScript for server-side development and Flutter for client-side development as well as all native languages used by Flutter framework for compilation. </p>
 
-### My Languages/Frameworks:
-<a href="https://go.dev/"><img alt="Go" title="Go" src="/logos/go.svg" height="42"></a>
+### Languages/Frameworks I work with:
+<a href="https://go.dev/"><img alt="Go" title="Go" src="/logos/go.svg" height="42" background-color=red></a>
 <a href="https://dart.dev/"><img alt="Dart" title="Dart" src="/logos/dart.svg" height="42"></a>
 <a href="https://flutter.dev/"><img alt="Flutter" title="Flutter" src="/logos/flutter.svg" height="42"></a>
 <a href="https://kotlinlang.org/"><img alt="Kotlin" title="Kotlin" src="/logos/kotlin.svg" height="42"></a>
 <a href="https://developer.apple.com/swift/"><img alt="Swift" title="Swift" src="/logos/swift.svg" height="42"></a>
-<a href="https://www.ecmascript.org/"><img alt="JavaScript" title="JavaScript" src="/logos/javascript.svg" height="42"></a>
-<a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="/logos/typescript.svg" height="42"></a>
+<a href="https://nodejs.org/en"><img alt="NodeJS" title="NodeJS" src="/logos/nodedotjs.svg" height="42"></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" title="TypeScript" src="/logos/tsnode.svg" height="42"></a>
 
 ### Environments I work with:
 <a href="https://www.docker.com/"><img alt="Docker" title="Docker" src="/logos/docker.svg" height="42"></a>
 <a href="https://kubernetes.io/"><img alt="Kubernetes" title="Kubernetes" src="/logos/kubernetes.svg" height="42"></a>
 <a href="https://github.com/"><img alt="GitHub" title="GitHub" src="/logos/github.svg" height="42"></a>
+<a href="https://archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="/logos/archlinux.svg" height="42"></a>
+
+### My Contacts:
+<a href="https://web.telegram.org/#@fox_js"><img alt="Telegram" title="Telegram" src="/logos/telegram.svg" height="42"></a>
+<a href="https://vk.com/q.whoami"><img alt="VK" title="VK" src="/logos/vk.svg" height="42"></a>
 
 ## Show your support
-Follow me if you like my work, or perhaps even [Sponsor Me](https://github.com/sponsors/pocket-red-fox)?
+Follow me if you like my work
