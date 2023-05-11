@@ -21,7 +21,7 @@
 
 ### My Contacts:
 <a href="https://web.telegram.org/#@fox_js"><img alt="Telegram" title="Telegram" src="/logos/telegram-color.svg" height="42"></a>
-<a href="https://vk.com/q.whoami"><img alt="VK" title="VK" src="/logos/vk-color.svg" height="42"></a>
+<a href="https://vk.com/pocket_red_fox"><img alt="VK" title="VK" src="/logos/vk-color.svg" height="42"></a>
 
 ## Show your support
 Follow me if you like my work
