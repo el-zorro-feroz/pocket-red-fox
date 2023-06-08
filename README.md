@@ -20,7 +20,7 @@
 <a href="https://github.com/"><img alt="GitHub" title="GitHub" src="/logos/github.svg" height="42"></a>
 
 ### My Contacts:
-<a href="https://web.telegram.org/#@fox_js"><img alt="Telegram" title="Telegram" src="/logos/telegram-color.svg" height="42"></a>
+<a href="https://t.me/nozorropositivo"><img alt="Telegram" title="Telegram" src="/logos/telegram-color.svg" height="42"></a>
 <a href="https://vk.com/pocket_red_fox"><img alt="VK" title="VK" src="/logos/vk-color.svg" height="42"></a>
 
 ## Show your support
