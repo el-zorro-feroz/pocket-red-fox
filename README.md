@@ -1,9 +1,14 @@
 ## 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-<p align="justify"> I am a Cross-Platform Developer with 6 years of coding experience. </p>
-<p align="justify"> I started in 2017 with Kotlin, making simple mobile applications and expanding my knowledge over time. Around 2018, I started to learn how to create server-side applications with JavaScript and work with databases like SQLite and PostgreSQL. During this time I also began to learn clean architecture patterns and its principles. Later, I found the statically typed server-side language Go and started learning it basics. Around 2019, I started to learn Dart lang and its framework named Flutter for building natively compiled, multi-platform applications from a single codebase. </p>
-<p align="justify"> My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. </p>
-<p align="justify"> Over the last few years, my knowledge and experience with development have expanded. I am fluent in using Go / JavaScript for server-side and Flutter for client-side development as well as all native languages used by Flutter framework for compilation. </p>
+<p align="justify"> I am a seasoned Cross-Platform Developer, boasting six years of hands-on coding experience.
+
+My journey began back in 2017 when I delved into Kotlin, initially crafting simple mobile applications and progressively honing my skills. As time went on, around 2018, I delved into the realm of server-side applications using JavaScript, and I adeptly handled databases such as SQLite and PostgreSQL. Concurrently, I diligently studied clean architecture patterns and embraced its principles to enhance my development prowess.
+
+In my pursuit of knowledge, I stumbled upon Go, a statically typed server-side language, captivated by its potential, I dedicated myself to learning its fundamentals. Around 2019, I explored Dart language and its associated framework called Flutter. With Flutter's power, I mastered the art of building natively compiled, multi-platform applications, all from a single, efficient codebase.
+
+Throughout my coding journey, my driving motivation has always been to create solutions that empower and aid others in their daily lives. There is immense satisfaction in knowing that something I build can make someone's life easier and more enjoyable.
+
+Over the years, my expertise has flourished, and I now possess a profound fluency in utilizing Go and JavaScript for server-side development, while skillfully navigating the Flutter framework and all its native languages for client-side development and compilation processes. </p>
 
 ### Languages/Frameworks I work with:
 <a href="https://go.dev/"><img alt="Go" title="Go" src="/logos/go-color.svg" height="42" background-color=red></a>
